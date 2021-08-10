@@ -1,0 +1,11 @@
+<html>
+<head>
+    <title>Изучение HTML</title>
+</head>
+<body>
+<form action="" method="post">
+    <input type="text" >
+<p>Моя кошка очень раздражена</p>
+</form>	
+</body>
+</html>
